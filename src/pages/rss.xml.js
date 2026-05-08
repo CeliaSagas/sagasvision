@@ -8,6 +8,7 @@ const parser = new MarkdownIt({ html: true, linkify: true });
 export async function GET(context) {
   const posts = await getCollection("posts");
   const site = context.site ?? "https://sagasvision.com";
+  const origin = site.toString().replace(/\/$/, "");
   return rss({
     title: "sagasvision",
     description:
@@ -19,19 +20,25 @@ export async function GET(context) {
           new Date(b.data.pubDate).getTime() -
           new Date(a.data.pubDate).getTime()
       )
-      .map((post) => ({
-        title: post.data.title,
-        pubDate: post.data.pubDate,
-        description: post.data.description,
-        link: `/posts/${post.id}/`,
-        content: sanitizeHtml(parser.render(post.body ?? ""), {
-          allowedTags: sanitizeHtml.defaults.allowedTags.concat(["img"]),
-          allowedAttributes: {
-            ...sanitizeHtml.defaults.allowedAttributes,
-            img: ["src", "alt", "title", "width", "height"],
-          },
-        }),
-      })),
+      .map((post) => {
+        const html = parser
+          .render(post.body ?? "")
+          .replace(/href="\//g, `href="${origin}/`)
+          .replace(/src="\//g, `src="${origin}/`);
+        return {
+          title: post.data.title,
+          pubDate: post.data.pubDate,
+          description: post.data.description,
+          link: `/posts/${post.id}/`,
+          content: sanitizeHtml(html, {
+            allowedTags: sanitizeHtml.defaults.allowedTags.concat(["img"]),
+            allowedAttributes: {
+              ...sanitizeHtml.defaults.allowedAttributes,
+              img: ["src", "alt", "title", "width", "height"],
+            },
+          }),
+        };
+      }),
     customData: `<language>en-us</language>`,
   });
 }
