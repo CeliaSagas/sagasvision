@@ -1,8 +1,12 @@
 # Build output
 dist/
+.astro/
 
 # Dependencies
 node_modules/
+
+# Claude Code local config
+.claude/
 
 # Logs
 npm-debug.log*
