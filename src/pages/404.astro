@@ -1,0 +1,36 @@
+---
+import BaseLayout from "@/layouts/BaseLayout.astro";
+---
+
+<BaseLayout>
+  <section>
+    <div class="py-32 text-center">
+      <p class="text-xs font-medium tracking-widest uppercase text-base-500">
+        404
+      </p>
+      <h1
+        class="mt-4 text-4xl text-balance font-medium font-display text-base-900"
+      >
+        Out of focus.
+      </h1>
+      <p class="mt-4 max-w-md mx-auto text-sm text-base-500 text-balance">
+        The page you were looking for isn't here &mdash; either it moved, or it
+        never existed in the first place.
+      </p>
+      <div class="mt-8 flex flex-wrap justify-center gap-3">
+        <a
+          href="/"
+          class="py-1.5 px-3 h-7.5 text-sm rounded-full bg-base-900 text-white hover:bg-base-800 inline-flex items-center justify-center duration-200"
+        >
+          Back to the homepage
+        </a>
+        <a
+          href="/tags"
+          class="py-1.5 px-3 h-7.5 text-sm rounded-full border border-base-200 text-base-900 hover:border-base-900 inline-flex items-center justify-center duration-200"
+        >
+          Browse by tag
+        </a>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

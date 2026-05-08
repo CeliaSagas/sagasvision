@@ -1,0 +1,116 @@
+---
+import "../styles/global.css";
+import { AstroSeo } from "@lexingtonthemes/seo";
+
+interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+}
+
+const SITE_URL = "https://sagasvision.com";
+const SITE_NAME = "sagasvision";
+const DEFAULT_TITLE =
+  "sagasvision — Adaptive Optics, AR, and the Science of Seeing";
+const DEFAULT_DESCRIPTION =
+  "Notes by Celia Sagastume on adaptive optics, augmented reality, and the science of how we see.";
+const DEFAULT_OG_IMAGE = `${SITE_URL}/og-img.png`;
+
+const {
+  title: pageTitle,
+  description: pageDescription,
+  image: pageImage,
+} = Astro.props;
+
+const fullTitle = pageTitle ? `${pageTitle} — ${SITE_NAME}` : DEFAULT_TITLE;
+const description = pageDescription ?? DEFAULT_DESCRIPTION;
+const ogImage = pageImage ?? DEFAULT_OG_IMAGE;
+const canonical = new URL(Astro.url.pathname, SITE_URL).toString();
+---
+
+<AstroSeo
+  title={fullTitle}
+  description={description}
+  canonical={canonical}
+  openGraph={{
+    url: canonical,
+    title: fullTitle,
+    description: description,
+    images: [
+      {
+        url: ogImage,
+        width: 1200,
+        height: 630,
+        alt: pageTitle ?? SITE_NAME,
+        type: "image/png",
+      },
+    ],
+    site_name: SITE_NAME,
+    type: pageTitle ? "article" : "website",
+    locale: "en_US",
+  }}
+  twitter={{
+    cardType: "summary_large_image",
+  }}
+/>
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+<!-- Basic Meta Tags -->
+<title>{fullTitle}</title>
+<meta name="description" content={description} />
+<meta
+  name="keywords"
+  content="adaptive optics, augmented reality, AR, vision science, optics, wavefront, retina, perception, sagasvision"
+/>
+<meta name="author" content="Celia Sagastume" />
+
+<!-- Favicons -->
+<link rel="icon" href="/favicon.ico" sizes="any" />
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+<link rel="manifest" href="/site.webmanifest" />
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content={pageTitle ? "article" : "website"} />
+<meta property="og:url" content={canonical} />
+<meta property="og:title" content={fullTitle} />
+<meta property="og:description" content={description} />
+<meta property="og:image" content={ogImage} />
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image" />
+<meta property="twitter:url" content={canonical} />
+<meta property="twitter:title" content={fullTitle} />
+<meta property="twitter:description" content={description} />
+<meta property="twitter:image" content={ogImage} />
+
+<!-- Canonical URL -->
+<link rel="canonical" href={canonical} />
+
+<!-- Additional SEO -->
+<meta name="robots" content="index, follow" />
+<meta name="googlebot" content="index, follow" />
+
+<!-- RSS -->
+<link
+  rel="alternate"
+  type="application/rss+xml"
+  title={SITE_NAME}
+  href={`${SITE_URL}/rss.xml`}
+/>
+
+<!-- Theme Color for Mobile Browsers -->
+<meta name="theme-color" content="#ffffff" />
+
+<!-- Fonts -->
+<link rel="preconnect" href="https://rsms.me/" />
+<link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
+<link
+  href="https://api.fontshare.com/v2/css?f[]=jet-brains-mono@1,2&display=swap"
+  rel="stylesheet"
+/>
+
+<script defer src="https://unpkg.com/alpinejs@3.x.x/dist/cdn.min.js"></script>
