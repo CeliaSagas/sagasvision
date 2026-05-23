@@ -17,7 +17,7 @@ I moved to San Francisco from Miami, Florida almost 20 years ago with the intent
 
 But after visiting the campus, I realized that lefty reputation was a thing of the past. Berkeley just didn't seem to be the school I thought it was. So I went to Mills College and got a degree in English Lit instead.
 
-Last year I finally did apply to UC Berkeley, for a PhD in Vision Science.
+Last year, almost 20 years after first stepping foot on campus, I finally did apply to UC Berkeley, for a PhD in Vision Science.
 
 I've spent the last four years as a contractor at Google working with the Vision Science team in the XR department. I've learned everything I know about eyeballs and Augmented Reality on the job, and I've loved most of every second of it.
 
