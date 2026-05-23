@@ -41,7 +41,7 @@ Austin's alma mater is the University of Waterloo, a well-known school for softw
 
 Waterloo. Waaaaterlooo. A song by ABBA that would get stuck in my head repeatedly over the next 6 months as I contemplated moving to Siberia for my PhD.
 
-"Am I a monk for science? Am I that kind of guy?" I thought, over and over, while swimming in the Yuba River in September in sweltering heat, while visiting Disneyland in October in 80 degree weather, while staring out my window at the mild rain we call winter in San Francisco in December.
+"Am I a monk for science? Am I that guy?" I thought, over and over, while swimming in the Yuba River in September in sweltering heat, while visiting Disneyland in October in 80 degree weather, while staring out my window at the mild rain we call winter in San Francisco in December.
 
 And despite my uncertainty with ever, truly, wanting to leave the Bay, I went through the motions. I knew I had met someone that would be a great mentor. I put in my application to University of Waterloo alongside my application to Berkeley. I wrote essays about how excited I was to learn how to build the newest AOSLO at Waterloo alongside essays about my background, experiences, and thirst for science for Cal.
 
@@ -63,7 +63,7 @@ I had to find out. I visited the campus again, dug deeper into the program, aske
 
 And that's the kicker. Because Berkeley is in the United States of A, and right now the country is a flaming pile of fascism in the making. Funding is being pulled from academia and science research left and right. Programs all over the country are shrinking. I'd be going to Berkeley but I'd also be staying in the states when I could be making my well-funded exit, stage left, out of this nightmare.
 
-Of course. Of course I couldn't go to Cal. Not only did I not make as strong a connection with anyone at Berkeley as I had with Austin, I would also be choosing to stay in the states when I know it's a sinking ship, and worst of all — I knew I wasn't Berkeley's first pick. I had been pulled off the waitlist. Meanwhile, I was Austin's first pick and I knew it. We had been chatting for months over video and email to figure out how to make Waterloo work for me.
+Of course. Of course I couldn't go to Cal. Not only did I not make as strong a connection with anyone at Berkeley as I had with Austin, I would also be choosing to stay in the states when I know it's a sinking ship, and worst of all — I knew I wasn't Berkeley's first pick. I had been pulled off the waitlist. Meanwhile, I was Austin's first pick and I knew it. And he was my first pick too. We had been chatting for months over video and email to figure out how to make Waterloo work for me.
 
 And so I feel like I finally turned a corner on a dream I had held for over a decade. The name Berkeley will always carry weight, but there are some things that are more important than institutional gravitas.
 
