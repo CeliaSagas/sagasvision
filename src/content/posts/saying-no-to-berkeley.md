@@ -15,13 +15,13 @@ What am I doing?!
 
 I moved to San Francisco from Miami, Florida almost 20 years ago with the intention of going to Berkeley one day. I was enthralled with its beautiful and historic campus, its rich history as a lefty anti-capitalist institution, and its location — close proximity to the gayest city on Earth. Because I couldn't afford it at the time, my plan was to gain California residency first, then apply as an in-state student later, saving myself thousands in tuition.
 
-But after visiting the campus, I realized that lefty reputation was a thing of the past. Berkeley just didn't seem to be the school I thought it was. So I went to Mills College and got a degree in English Lit instead.
+But after visiting the campus, I realized my picture of the place was a little out of date. So I went to Mills College and got a degree in English Lit instead.
 
 Last year, almost 20 years after first stepping foot on campus, I finally did apply to UC Berkeley, for a PhD in Vision Science.
 
 I've spent the last four years as a contractor at Google working with the Vision Science team in the XR department. I've learned everything I know about eyeballs and Augmented Reality on the job, and I've loved most of every second of it.
 
-But as Google's policies changed in regards to Temp-Vendor-Contractors (TVC's), so did my role with the team. I went from working on every project and running every study to being left out of most meetings, my scope shrinking by the day. I wanted to continue to grow as a scientist, not be relegated to an increasingly smaller role.
+But contractor roles come with a ceiling, and I could feel mine. I wanted to keep growing as a scientist, not stay boxed into an increasingly narrow scope.
 
 So I had to figure out how to leave Google.
 
@@ -59,11 +59,11 @@ Berkeley took me off the waitlist on April 16th, one day after the decision dead
 
 It was too good to be true and too awful to be true. Could I really choose Berkeley after spending so much time planning and scheming with Austin?
 
-I had to find out. I visited the campus again, dug deeper into the program, asked the pointed questions. And the same theme kept coming up: funding was tight. The future seemed uncertain. I might have to write some grant proposals to get myself through.
+I had to find out. I visited the campus again, dug deeper into the program, asked the pointed questions. And the same theme kept coming up: things felt less settled than I'd hoped, funding included. I'd be starting a program with more open questions than I was comfortable with.
 
-And that's the kicker. Because Berkeley is in the United States of A, and right now the country is a flaming pile of fascism in the making. Funding is being pulled from academia and science research left and right. Programs all over the country are shrinking. I'd be going to Berkeley but I'd also be staying in the states when I could be making my well-funded exit, stage left, out of this nightmare.
+And that's the kicker. Science funding in the U.S. has gotten increasingly uncertain lately, with programs shrinking and grants harder to count on. I'd be going to Berkeley into that uncertainty, when I could instead make a well-funded exit into something more stable.
 
-Of course. Of course I couldn't go to Cal. Not only did I not make as strong a connection with anyone at Berkeley as I had with Austin, I would also be choosing to stay in the states when I know it's a sinking ship, and worst of all — I knew I wasn't Berkeley's first pick. I had been pulled off the waitlist. Meanwhile, I was Austin's first pick and I knew it. And he was my first pick too. We had been chatting for months over video and email to figure out how to make Waterloo work for me.
+Of course. Of course I couldn't go to Cal. I hadn't made the same connection with anyone there that I had with Austin, and I'd also be choosing more uncertainty when I had a sure thing on the table. Meanwhile, I was Austin's first pick and I knew it. And he was my first pick too. We had been chatting for months over video and email to figure out how to make Waterloo work for me.
 
 And so I feel like I finally turned a corner on a dream I had held for over a decade. The name Berkeley will always carry weight, but there are some things that are more important than institutional gravitas.
 
