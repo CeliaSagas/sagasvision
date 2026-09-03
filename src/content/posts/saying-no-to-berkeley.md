@@ -59,12 +59,8 @@ Berkeley took me off the waitlist on April 16th, one day after the decision dead
 
 It was too good to be true and too awful to be true. Could I really choose Berkeley after spending so much time planning and scheming with Austin?
 
-I had to find out. I visited the campus again, dug deeper into the program, asked the pointed questions. And the same theme kept coming up: things felt less settled than I'd hoped, funding included. I'd be starting a program with more open questions than I was comfortable with.
+I had to find out. I visited the campus again. I hung out at some labs, met with students, checked out the current projects. But it just didn't feel right. I'd already spent a lot of time and energy on the Canadian path, and that's where my heart was. My partner and I would be closer to family, I'd have a great mentor, and I was looking forward to the change in seasons. Plus, things didn't look so hot in the US.
 
-And that's the kicker. Science funding in the U.S. has gotten increasingly uncertain lately, with programs shrinking and grants harder to count on. I'd be going to Berkeley into that uncertainty, when I could instead make a well-funded exit into something more stable.
-
-Of course. Of course I couldn't go to Cal. I hadn't made the same connection with anyone there that I had with Austin, and I'd also be choosing more uncertainty when I had a sure thing on the table. Meanwhile, I was Austin's first pick and I knew it. And he was my first pick too. We had been chatting for months over video and email to figure out how to make Waterloo work for me.
-
-And so I feel like I finally turned a corner on a dream I had held for over a decade. The name Berkeley will always carry weight, but there are some things that are more important than institutional gravitas.
+Of course. Of course I couldn't go to Cal. I hadn't made the same connection with anyone there that I had with Austin, and I'd also be choosing more uncertainty when I had a sure thing on the table. And so I feel like I finally turned a corner on a dream I had held for over a decade. The name Berkeley will always carry weight, but there are some things that are more important than institutional gravitas.
 
 It was a tough choice, an agonizing choice, one that I spent months fretting over and years dreaming I'd have the chance to make. I had been offered admission to UC Berkeley, and in the end, that was enough. It didn't matter whether I attended or not, whether I got my PhD wearing black and blue or red and green, whether I spend 4 years or 6 years completing the degree. I had been offered admission. I was good enough. And I could say no.
