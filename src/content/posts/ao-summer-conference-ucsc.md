@@ -32,7 +32,7 @@ There are so many more points of adjustment for a wavefront sensor than I though
 
 <figure>
   <img src="/images/blog/ao-summer-camp-wavefront-sensor.jpg" alt="Celia demonstrating the wavefront sensor setup at the UCSC Adaptive Optics Summer Camp." />
-  <figcaption><em>Me and the wavefront sensor, moments after we both survived the move from the lab to the conference room.</em></figcaption>
+  <figcaption><em>Me demonstrating the wavefront sensor.</em></figcaption>
 </figure>
 
 But we got it done. And I was able to attend most of the Adaptive Optics conference, which was such a fantastic experience. There's a big focus on astronomical applications of adaptive optics at the camp. Wavefront sensors were first developed to measure the aberrations introduced by our atmosphere, which degrade the signal quality of telescopes pointed at distant stars.
@@ -47,7 +47,7 @@ I learned a lot that week in Santa Cruz. The lectures were excellent, varied, an
 
 <figure>
   <img src="/images/blog/ao-summer-camp-pyramid-sensor.jpg" alt="An optical bench setup with a row of lens mounts and prisms, built for one of the hands-on labs at the summer camp." />
-  <figcaption><em>A four-sided pyramid wavefront sensor I built during the hands-on labs — a pair of prisms splits each spot into four to measure the wavefront.</em></figcaption>
+  <figcaption><em>A four-sided pyramid wavefront sensor I built during the hands-on labs!</em></figcaption>
 </figure>
 
 But best of all was the company. Meeting students from all over the world, all working on such varied and interesting projects, all eager to spend a week out of their summer to sit in a conference area and learn about wavefront sensing and telescopes and lasers. They were the best.
