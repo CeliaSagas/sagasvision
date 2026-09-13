@@ -18,7 +18,7 @@ The campus is literally inside a redwood forest.
 The summer camp takes place before the beginning of the fall semester, so the students on campus are replaced with deer, wild turkeys, and banana slugs. I woke up every morning in a misty northern Californian dream, fully indulging in my nostalgia over the place I called home for the last two decades.
 
 <figure>
-  <img src="/images/blog/IMG_1289.jpeg" alt="A deer grazing on the UC Santa Cruz campus, framed by redwood trees." />
+  <img src="/src/images/blog/IMG_1289.jpeg" alt="A deer grazing on the UC Santa Cruz campus, framed by redwood trees." />
   <figcaption><em>One of the campus's actual residents, unbothered by the summer school.</em></figcaption>
 </figure>
 
@@ -31,7 +31,7 @@ And we still scrambled to get the sensor up and running in time for the conferen
 There are so many more points of adjustment for a wavefront sensor than I thought possible. You can move the IR source to better align it with your optical array. You can adjust the focal length of the telescope to focus the spots on the sensor. You can adjust the aperture of the pupil conjugate to limit the corneal reflection of the source beam. You can adjust the shutter speed and gain of your cameras. And the whole thing can misalign again when you move it from one spot (your lab) to another (the conference area).
 
 <figure>
-  <img src="/images/blog/IMG_1589.jpeg" alt="Celia demonstrating the wavefront sensor setup at the UCSC Adaptive Optics Summer Camp." />
+  <img src="/src/images/blog/IMG_1589.jpeg" alt="Celia demonstrating the wavefront sensor setup at the UCSC Adaptive Optics Summer Camp." />
   <figcaption><em>Me and the wavefront sensor, moments after we both survived the move from the lab to the conference room.</em></figcaption>
 </figure>
 
@@ -46,7 +46,7 @@ And all of them were fascinated by the idea that I could use the same technology
 I learned a lot that week in Santa Cruz. The lectures were excellent, varied, and wonderful. The speakers were brilliant scientists and engineers working on projects they were clearly very passionate about. The hands-on exercises were informative and engaging.
 
 <figure>
-  <img src="/images/blog/IMG_1334.jpeg" alt="An optical bench setup with a row of lens mounts and prisms, built for one of the hands-on labs at the summer camp." />
+  <img src="/src/images/blog/IMG_1334.jpeg" alt="An optical bench setup with a row of lens mounts and prisms, built for one of the hands-on labs at the summer camp." />
   <figcaption><em>A four-sided pyramid wavefront sensor I built during the hands-on labs — a pair of prisms splits each spot into four to measure the wavefront.</em></figcaption>
 </figure>
 
